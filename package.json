@@ -1,0 +1,26 @@
+{
+  "name": "file-size",
+  "version": "0.0.1",
+  "description": "FCC Microservices project",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witcradg/file-size.git"
+  },
+  "author": "witcradg@gmail.com",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^4.14.0",
+    "request": "^2.74.0",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witcradg/file-size/issues"
+  },
+  "homepage": "https://github.com/witcradg/file-size#readme"
+}
